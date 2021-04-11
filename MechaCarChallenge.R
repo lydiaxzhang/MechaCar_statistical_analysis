@@ -33,3 +33,4 @@ t.test(suspensioncoil$PSI, mu=1500)
 t.test(subset(suspensioncoil, Manufacturing_Lot=="Lot1")$PSI, mu=1500)
 t.test(subset(suspensioncoil, Manufacturing_Lot=="Lot2")$PSI, mu=1500)
 t.test(subset(suspensioncoil, Manufacturing_Lot=="Lot3")$PSI, mu=1500)
+
